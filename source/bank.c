@@ -17,7 +17,7 @@
 
 
 
-/* ---------- P A R T  4 ----------*/
+/* ---------- M A I N  P R O G R A M ----------*/
 
 typedef struct workload_manager {
     int thread_idx;
